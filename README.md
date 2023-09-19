@@ -12,4 +12,4 @@ This sample code separates mixtures of 3 speeches mixed in a real room environme
 
 ### Reference
 
-[1]: Hiroshi Sawada, Rintaro Ikeshita, Keisuke Kinoshita, and Tomohiro Nakatani, "Multi-frame Full-rank Spatial Covariance Analysis for Underdetermined Blind Source Separation and Dereverberation," under review.
+[1]: Hiroshi Sawada, Rintaro Ikeshita, Keisuke Kinoshita, and Tomohiro Nakatani, "Multi-frame Full-rank Spatial Covariance Analysis for Underdetermined Blind Source Separation and Dereverberation," IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
